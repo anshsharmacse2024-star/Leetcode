@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0875-koko-eating-bananas) |
+## String
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
