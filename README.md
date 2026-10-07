@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0162-find-peak-element) |
+| [0498-diagonal-traverse](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0875-koko-eating-bananas](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0498-diagonal-traverse) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
