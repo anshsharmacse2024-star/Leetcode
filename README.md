@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0162-find-peak-element) |
 | [0498-diagonal-traverse](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0875-koko-eating-bananas](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -29,9 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0498-diagonal-traverse) |
 ## Simulation
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0498-diagonal-traverse) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
