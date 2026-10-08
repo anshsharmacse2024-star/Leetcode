@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0162-find-peak-element) |
 | [0498-diagonal-traverse](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0766-toeplitz-matrix) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## String
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0766-toeplitz-matrix) |
 ## Simulation
