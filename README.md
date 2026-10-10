@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0118-pascals-triangle) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0066-plus-one) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
