@@ -1,22 +1,32 @@
 class Solution {
     public List<Integer> getRow(int rowIndex) {
-        List<List<Integer>> ans= new ArrayList<>();
+        // List<List<Integer>> ans= new ArrayList<>();
+        // List<Integer> output= new ArrayList<>();
+        // for(int a=0;a<=rowIndex;a++){
+        //     ans.add(new ArrayList<>());
+        //   }
+        // for(int i=0;i<=rowIndex;i++){
+        //     for(int j=0;j<=i;j++){
+        //         if(j==0 || j==i){
+        //             ans.get(i).add(1);
+        //         }else{
+        //             int mid_val=ans.get(i-1).get(j)+ans.get(i-1).get(j-1);
+        //             ans.get(i).add(mid_val);
+        //         }
+        //     }
+        //     if(i==rowIndex){
+        //         output=ans.get(i);
+        //     }
+        // }
+        // return output;
         List<Integer> output= new ArrayList<>();
-        for(int a=0;a<=rowIndex;a++){
-            ans.add(new ArrayList<>());
-          }
-        for(int i=0;i<=rowIndex;i++){
-            for(int j=0;j<=i;j++){
-                if(j==0 || j==i){
-                    ans.get(i).add(1);
-                }else{
-                    int mid_val=ans.get(i-1).get(j)+ans.get(i-1).get(j-1);
-                    ans.get(i).add(mid_val);
-                }
+        output.add(1);
+        for(int i=1;i<=rowIndex;i++){
+            for(int j=i-1;j>=1;j--){
+                int val=output.get(j)+output.get(j-1);
+                output.set(j, val);
             }
-            if(i==rowIndex){
-                output=ans.get(i);
-            }
+            output.add(1);
         }
         return output;
     }
