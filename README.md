@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0162-find-peak-element) |
+| [0496-next-greater-element-i](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0766-toeplitz-matrix) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0496-next-greater-element-i](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Dynamic Programming
 |  |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
