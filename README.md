@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0496-next-greater-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
