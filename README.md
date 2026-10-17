@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0867-transpose-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0867-transpose-matrix) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Hash Table
 |  |
