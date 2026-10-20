@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0066-plus-one) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0367-valid-perfect-square) |
