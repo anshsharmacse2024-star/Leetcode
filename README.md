@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0125-valid-palindrome) |
 | [0633-sum-of-square-numbers](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0680-valid-palindrome-ii](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0268-missing-number) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
