@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0125-valid-palindrome) |
+| [0647-palindromic-substrings](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1528-shuffle-string](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0647-palindromic-substrings](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0125-valid-palindrome) |
 | [0633-sum-of-square-numbers](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
