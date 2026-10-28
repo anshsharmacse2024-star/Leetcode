@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0125-valid-palindrome) |
+| [0415-add-strings](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0415-add-strings) |
 | [0647-palindromic-substrings](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1528-shuffle-string](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/1528-shuffle-string) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0867-transpose-matrix) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
