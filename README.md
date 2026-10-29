@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0415-add-strings) |
 | [0647-palindromic-substrings](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
