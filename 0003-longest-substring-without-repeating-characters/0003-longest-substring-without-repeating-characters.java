@@ -1,9 +1,9 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        int max=Integer.MIN_VALUE;
-        if(s.length()==0){
-            return 0;
-        }
+        int max=0;
+        // if(s.length()==0){
+        //     return 0;
+        // }
         for(int i=0;i<s.length();i++){
             int count=0;
             int[] freq=new int[127];
@@ -24,3 +24,30 @@ class Solution {
         return max;
     }
 }
+
+
+// TLE:
+// class Solution {
+//     public int lengthOfLongestSubstring(String s) {
+//         int max=0;
+//         for(int i=0;i<s.length();i++){
+//             int count=0;
+//             for(int j=i;j<s.length();j++){
+//                 boolean duplicate=false;
+//                 for(int k=i;k<j;k++){
+//                     if(s.charAt(k)==s.charAt(j)){
+//                         duplicate=true;
+//                         break;
+//                     }
+//                 }
+//                 if(duplicate){
+//                     break;
+//                 }
+//                 count++;
+//             }
+//             max=Math.max(count,max);
+//         }
+//         return max;
+//     }
+// }
+
