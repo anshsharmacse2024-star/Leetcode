@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0500-keyboard-row) |
 | [0661-image-smoother](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0766-toeplitz-matrix) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0415-add-strings) |
+| [0500-keyboard-row](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1528-shuffle-string](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/1528-shuffle-string) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0500-keyboard-row) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
