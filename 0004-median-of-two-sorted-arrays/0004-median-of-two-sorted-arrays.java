@@ -21,6 +21,9 @@ class Solution {
         }else{
             ans=(arr[mid]+(double)arr[mid+1])/2;
             return ans;
+
+
+            
         }
 
     }
