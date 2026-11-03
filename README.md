@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0500-keyboard-row) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/0383-ransom-note) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anshsharmacse2024-star/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Sliding Window
 |  |
